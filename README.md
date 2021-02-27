@@ -1,11 +1,13 @@
 
 <img src="portrait.jpg" width="200">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is where I do a short bio 
 
-### Markdown
+### Projects 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Here is a link to another page [Link](/test.html)
 
 ```markdown
 Syntax highlighted code block
