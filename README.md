@@ -1,5 +1,5 @@
 
-<img src="portrait.jpg" width="200">
+<img align="right" src="portrait.jpg" width="200">
 
 Here is where I do a short bio 
 
