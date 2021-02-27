@@ -1,4 +1,3 @@
-## Welcome to my website
 
 <img src="portrait.jpg" width="200">
 
