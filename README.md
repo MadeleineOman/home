@@ -7,7 +7,7 @@ Here is where I do a short bio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Here is a link to another page [Link](/test.html)
+Here is a link to another page [Link](/home/test.html)
 
 ```markdown
 Syntax highlighted code block
