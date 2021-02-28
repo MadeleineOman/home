@@ -1,7 +1,14 @@
 
 <img align="left" src="portrait.jpg" width="200">
 
-Here is where I do a short bio 
+Madeleine Oman 
+madeleine.oman@mail.utoronto.ca 
+PhD student, [Ness lab] (https://ness.bio/) 
+
+Here is the short bio 
+
+
+
 
 ### Projects 
 
