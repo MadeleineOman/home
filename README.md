@@ -1,5 +1,5 @@
 
-<img align="left" src="portrait.jpg" width="200">
+<img align="right" src="portrait.jpg" width="200">
 
 I'm a PhD student at the [Ness lab] (https://ness.bio/) at the [University of Toronto Mississauga](https://www.utm.utoronto.ca/biology/). I am broadly interested in mutation rate variation and how it varies across and within species. 
 
