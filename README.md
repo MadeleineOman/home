@@ -1,5 +1,5 @@
 
-<img align="right" src="portrait.jpg" width="200">
+<img align="left" src="portrait.jpg" width="200">
 
 Here is where I do a short bio 
 
@@ -9,7 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Here is a link to another page [Link](/home/test.html)
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -25,7 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
