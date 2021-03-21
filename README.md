@@ -10,7 +10,7 @@ Outside of research I'm very passionate about improving the undergraduate learni
 Coming soon!
 
 ### Resume 
-
+[click here!](Madeleine_Oman_CV.pdf)
 
 ### Contact me 
 madeleine.oman@mail.utoronto.ca
