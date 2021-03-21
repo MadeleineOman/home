@@ -9,5 +9,8 @@ Outside of research I'm very passionate about improving the undergraduate learni
 ### Projects 
 Coming soon!
 
+### Resume 
+
+
 ### Contact me 
 madeleine.oman@mail.utoronto.ca
