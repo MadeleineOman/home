@@ -31,10 +31,8 @@ One of the main factors that affects the likelihood of a site to mutate is actua
 <br />
 
 ### Teaching experience 
-Outside of research I'm very passionate about improving the undergraduate learning experience. I hold numerous roles in UTM academic student support programs including as a Senior Program Assistant at the [Facilitated Study Group Program](https://www.utm.utoronto.ca/asc/facilitated-study-groups-fsgs) and heading the [International Mentorship in Academic and Canadian Culture Program](https://www.utm.utoronto.ca/language-studies/experiential-learning/imacc). 
+Outside of research I'm very passionate about the science of learnng and using actuve learning techniques to improve the undergraduate learning experience. I've held numerous roles in UfT academic student support programs including as a Senior Program Assistant at the [Facilitated Study Group Program](https://www.utm.utoronto.ca/asc/facilitated-study-groups-fsgs) and heading the [International Mentorship in Academic and Canadian Culture Program](https://www.utm.utoronto.ca/language-studies/student-resources/imacc-support-international-students). I'm also passionate in my role as a Teaching Assistant, having developed [course content](2020 BIO353 - Lab 4 _ Studentcopy_auxin_NPA_cytokinin.pdf) and held a position within the [TA training department](https://tatp.utoronto.ca/).  
 
 
 
-
-### Contact me 
 
