@@ -17,7 +17,7 @@ Human geneticist passionate about improving health outcomes, science communicati
 
 #### Predictors of mutability in healthy human tissues:  [link](https://academic.oup.com/genetics/article/229/3/iyae215/8015402?login=true) 
 <img align="left" src="coefViolinPlot_all_tStatDev_fullModel_fullData_onlySign.png" width="300">
-Ever wondered what causes mutation within you? The truth is that many processes and chemicals affect whether sites in the genome mutate, which includes the many molcules that exist innately within cells  (ie. transcription machinery, epigenetic marks). In this paper I leverage data from prexisiting experiments and build machine learning models that predicts mutations in healthy tissues. I created highly accurate models (wihtin 2% error), and explore the question: are the factors that predict mutation consistent across tissues, or do they differ? 
+Ever wondered what causes mutation within you? The truth is that many processes and chemicals affect whether sites in the genome mutate, which includes the many molcules that exist innately within cells  (ie. transcription machinery, epigenetic marks). In this paper I leverage data from prexisiting experiments and build machine learning models that predicts mutations in healthy tissues. I created highly accurate models (within 2% error), and explore the question: are the factors that predict mutation consistent across tissues, or do they differ? 
 <br />
 <br />
 <br />
