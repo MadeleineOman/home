@@ -1,5 +1,5 @@
 
-<img align="right" src="portrait.jpg" width="200">
+<img align="right" src="IMG_0632.JPG" width="200">
 
 Madeleine Oman \
 PhD University of Toronto - Expected fall 2025 \
