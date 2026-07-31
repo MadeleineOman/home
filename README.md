@@ -2,7 +2,7 @@
 <img align="right" src="IMG_0632.JPG" width="300">
 
 Madeleine Oman \
-PhD University of Toronto - Expected fall 2025 \
+PhD University of Toronto - 2026 \
 madeleine.oman@mail.utoronto.ca\
 @MadeleineOman\
 [CV](Madeleine_Oman_CV.pdf) 
@@ -45,8 +45,12 @@ Urban pollution may increase mutation rates in city-dwelling organisms, potentia
 ### [Awards](award.md)
 
 ### Teaching experience 
-Outside of research I'm very passionate about the science of learnng and using actuve learning techniques to improve the undergraduate learning experience. I've held numerous roles in UfT academic student support programs including as a Senior Program Assistant at the [Facilitated Study Group Program](https://www.utm.utoronto.ca/asc/facilitated-study-groups-fsgs) and heading the [International Mentorship in Academic and Canadian Culture Program](https://www.utm.utoronto.ca/language-studies/student-resources/imacc-support-international-students). I'm also passionate in my role as a Teaching Assistant, having developed [course content](Bio353_bigData_lab_studentCopy.pdf) and held a position within the [TA training department](https://tatp.utoronto.ca/).  
+Outside of research I'm very passionate about the science of learnng and using actuve learning techniques to improve the undergraduate learning experience. I've held numerous roles in UfT academic student support programs including as a Senior Program Assistant at the [Facilitated Study Group Program](https://www.utm.utoronto.ca/asc/facilitated-study-groups-fsgs) and heading the [International Mentorship in Academic and Canadian Culture Program](https://www.utm.utoronto.ca/language-studies/student-resources/imacc-support-international-students). I'm also passionate in my role as a Teaching Assistant, having developed and held a position within the [TA training department](https://tatp.utoronto.ca/).  
 
+Outside of research I'm very passionate about the science of learnng and using actuve learning techniques to improve the undergraduate learning experience. I've held numerous roles in UfT academic student support programs including as a Senior Program Assistant at the [Facilitated Study Group Program](https://www.utm.utoronto.ca/asc/facilitated-study-groups-fsgs) and heading the [International Mentorship in Academic and Canadian Culture Program](https://www.utm.utoronto.ca/language-studies/student-resources/imacc-support-international-students). I'm also passionate in my role as a Teaching Assistant, and worked to improve TA training with the [TA training department](https://tatp.utoronto.ca/).  Here are some of select projects! 
+- TA training module on integrating actve learning tehcniques  to improve engagemtn in undergraudtae curcicula
+- [Bionformatic manual](Bio353_bigData_lab_studentCopy.pdf) teachng undergruates about the tools available to process big data in the filed of plant development (2022)
+- [Intriductor Gneetics guest lecture]()
 
 
 
